@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cabaa93-732d-4062-85ad-7636424ec3a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda_JK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/lambda/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/lambda/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/lambda/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/lambda/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/lambda/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/sda/lambda/AppTest.class" afterDir="false" />
+    </list>
+    <list id="fa20fc40-d3ee-4f68-a884-2d80cceaef16" name="Stworzenie lambd" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/JavaFXWindows_JK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/java/pl/sda/windows/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/java/pl/sda/windows/controller/Button1view.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/java/pl/sda/windows/controller/Button2view.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/java/pl/sda/windows/controller/RootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/resources/button1view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/resources/button2view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/main/resources/rootview.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXWindows_JK/src/test/java/pl/sda/windows/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filewriter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../filewriter/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\SDA\IntelliJ\Lambda_JK\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OxMzUT9HZKgu00ng5U3d0f3LWQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SDA\IntelliJ\Lambda_JK\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.lambda.App" />
+      <module name="Lambda_JK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cabaa93-732d-4062-85ad-7636424ec3a8" name="Default Changelist" comment="" />
+      <changelist id="fa20fc40-d3ee-4f68-a884-2d80cceaef16" name="Stworzenie lambd" comment="" />
+      <created>1564915056869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564915056869</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Zabawa w lambdy">
+      <created>1564926889620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564926889621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Naniesione poprawki">
+      <created>1564943206522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564943206522</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testowanie lambd">
+      <created>1564943679161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564943679161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="SHOW_ROOT_NAMES" value="true" />
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zabawa w lambdy" />
+    <MESSAGE value="Naniesione poprawki" />
+    <MESSAGE value="Testowanie lambd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testowanie lambd" />
+  </component>
+</project>
